@@ -3,8 +3,12 @@
 - 😄 Entusiasta da programação 
 - ☕️ Café é vida
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arturbristot&show_icons=true&theme=dracula)
-
+<div>
+  <a href="https://github.com/MariMelo1">
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturbristot&layout=compact&theme=dracula&show_icons=true" />
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=arturbristot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+    
 # O que eu ando estudando :
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
