@@ -1,7 +1,7 @@
 # Oi! Eu sou o Artur Bristot!
 - 🎒 Estudante de Informatica
 - 😄 Entusiasta da programação 
-- 💭 Café é vida
+- ☕️ Café é vida
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arturbristot&show_icons=true&theme=dracula)
 
