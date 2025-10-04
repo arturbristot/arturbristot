@@ -1,8 +1,8 @@
 # Artur Bristot
 
-### 💻 Estudante de Informática | Desenvolvedor em Formação
+### 💻 Engenharia de Software | Desenvolvedor
 
-Sou estudante de Informática com foco em desenvolvimento de software. Tenho interesse em programação, resolução de problemas e boas práticas de código. Busco constantemente aprimorar minhas habilidades técnicas e acompanhar as tendências do setor de tecnologia.
+Sou graduado em Informática e atualmente curso Engenharia de Software. Atuo profissionalmente como desenvolvedor, com interesse em programação, boas práticas de código e resolução de problemas. Busco constantemente evoluir minhas habilidades técnicas e acompanhar as tendências e inovações do setor de tecnologia.
 
 ---
 
