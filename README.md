@@ -2,7 +2,7 @@
 
 ### 💻 Engenharia de Software | Desenvolvedor
 
-Sou graduado em Informática e atualmente curso Engenharia de Software. Atuo profissionalmente como desenvolvedor, com interesse em programação, boas práticas de código e resolução de problemas. Busco constantemente evoluir minhas habilidades técnicas e acompanhar as tendências e inovações do setor de tecnologia.
+Me formei como tecnico em Informática e atualmente curso Engenharia de Software. Atuo profissionalmente como desenvolvedor, com interesse em programação, boas práticas de código e resolução de problemas. Busco constantemente evoluir minhas habilidades técnicas e acompanhar as tendências e inovações do setor de tecnologia.
 
 ---
 
