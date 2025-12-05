@@ -10,10 +10,11 @@ Me formei como tecnico em Informática e atualmente curso Engenharia de Software
 
 <div>
   <a href="https://github.com/arturbristot">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturbristot&layout=compact&theme=dracula&show_icons=true" />
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=arturbristot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arturbristot&layout=compact&theme=dracula&show_icons=true" />
+    <img loading="lazy" height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=arturbristot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+
 
 ---
 
